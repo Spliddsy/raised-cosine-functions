@@ -1,0 +1,1 @@
+I couldn't really find any readily-available functions for finding the response of the RC and RRC filters, so here's some simple MATLAB functions for that! It's nothing fancy but they should work with vectors of time (t) or frequency (f).
